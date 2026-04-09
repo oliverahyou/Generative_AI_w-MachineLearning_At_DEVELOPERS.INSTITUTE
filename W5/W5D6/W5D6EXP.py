@@ -1,10 +1,10 @@
 # Exercise 1: Duplicate Detection and Removal
-import pandas as pd
-df = pd.read_csv('train.csv')
-clean_df = df.drop_duplicates()
-clean_df.to_csv("train_data.csv", index=False)
-rows = len(df)
-print(rows)
+# import pandas as pd
+# df = pd.read_csv('train.csv')
+# clean_df = df.drop_duplicates()
+# clean_df.to_csv("train_data.csv", index=False)
+# rows = len(df)
+# print(rows)
 # 891 rows in the original dataset
 # 891 rows in the cleaned dataset, indicating that there were no duplicate entries in the original dataset.
 
@@ -66,46 +66,46 @@ print(rows)
 # Exercise 4: Outlier Detection and Handling
 
 
-import pandas as pd
-import matplotlib.pyplot as plt
+# import pandas as pd
+# import matplotlib.pyplot as plt
 
-df = pd.read_csv("train.csv")
+# df = pd.read_csv("train.csv")
 
-# Histograms
-df['Fare'].hist(bins=50)
-plt.title("Fare Distribution")
-plt.show()
+# # Histograms
+# df['Fare'].hist(bins=50)
+# plt.title("Fare Distribution")
+# plt.show()
 
-df['Age'].hist(bins=50)
-plt.title("Age Distribution")
-plt.show()
+# df['Age'].hist(bins=50)
+# plt.title("Age Distribution")
+# plt.show()
 
-# Boxplots
-df.boxplot(column=['Fare'])
-plt.title("Fare Boxplot")
-plt.show()
+# # Boxplots
+# df.boxplot(column=['Fare'])
+# plt.title("Fare Boxplot")
+# plt.show()
 
-df.boxplot(column=['Age'])
-plt.title("Age Boxplot")
-plt.show()
+# df.boxplot(column=['Age'])
+# plt.title("Age Boxplot")
+# plt.show()
 
-#IQR method for outlier detection
+# #IQR method for outlier detection
 
-def detect_outliers_iqr(column):
-    Q1 = column.quantile(0.25)
-    Q3 = column.quantile(0.75)
-    IQR = Q3 - Q1
+# def detect_outliers_iqr(column):
+#     Q1 = column.quantile(0.25)
+#     Q3 = column.quantile(0.75)
+#     IQR = Q3 - Q1
     
-    lower = Q1 - 1.5 * IQR
-    upper = Q3 + 1.5 * IQR
+#     lower = Q1 - 1.5 * IQR
+#     upper = Q3 + 1.5 * IQR
     
-    return lower, upper
+#     return lower, upper
 
-fare_lower, fare_upper = detect_outliers_iqr(df['Fare'])
-age_lower, age_upper = detect_outliers_iqr(df['Age'])
+# fare_lower, fare_upper = detect_outliers_iqr(df['Fare'])
+# age_lower, age_upper = detect_outliers_iqr(df['Age'])
 
-print("Fare bounds:", fare_lower, fare_upper)
-print("Age bounds:", age_lower, age_upper)
+# print("Fare bounds:", fare_lower, fare_upper)
+# print("Age bounds:", age_lower, age_upper)
 
 # Exercise 5: Data Standardization and Normalization
 # Exercise 6: Feature Encoding
