@@ -5,7 +5,6 @@
 #     Players take turns putting their marks (O or X) in empty squares.
 #     The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
 #     When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
-
 # Step 1: Create the board
 # Create a 3 by 3 list to represent the tic tac toe board. Each element of the list should be a string with a single space in it. This will represent an empty square on the board.
 board = [[" ", " ", " "], [" ", " ", " "], [" ", " ", " "]]
@@ -43,7 +42,6 @@ def check_tie(board):
         if " " in row:
             return False
     return True
-
 # Step 5: Create a function to play the game
 # Create a function called play_game that allows two players to play the game. The function should alternate turns between the two players and allow them to input their moves. The function should also check for a win or a tie after each move and end the game if there is a winner or a tie.
 def play_game():
