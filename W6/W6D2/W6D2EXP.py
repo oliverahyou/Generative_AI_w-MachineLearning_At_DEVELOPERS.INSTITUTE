@@ -11,7 +11,7 @@
 # Instructions
 #     Create a simple line plot using Matplotlib that represents the temperature variations over a week.
 #     Use a list of temperature values for each day of the week (e.g., [72, 74, 76, 80, 82, 78, 75]) and label the x-axis as “Day” and the y-axis as “Temperature (°F)”.
-import matplotlib as plt
+import matplotlib.pyplot as plt
 days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 temperatures = [72, 74, 76, 80, 82, 78, 75]
 plt.title('Temperature Variations Over a Week')

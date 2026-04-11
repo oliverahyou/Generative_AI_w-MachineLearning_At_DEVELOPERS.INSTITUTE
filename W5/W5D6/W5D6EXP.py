@@ -53,7 +53,6 @@ df["Family Size"] = df["SibSp"] + df["Parch"] + 1
 # Since title are usually followed by a dot in the name, we can extract the title from the "Name" column using string manipulation techniques
 df["Title"] = df["Name"].str.extract(' ([A-Za-z]+)\.', expand=False)
 # Exercise 4: Outlier Detection and Handling
-import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv("train.csv")
 # Histograms
@@ -82,7 +81,6 @@ fare_lower, fare_upper = detect_outliers_iqr(df['Fare'])
 age_lower, age_upper = detect_outliers_iqr(df['Age'])
 print("Fare bounds:", fare_lower, fare_upper)
 print("Age bounds:", age_lower, age_upper)
-
 # Exercise 5: Data Standardization and Normalization
 # Exercise 6: Feature Encoding
 # Exercise 7: Data Transformation for Age Feature
