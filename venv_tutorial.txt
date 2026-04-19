@@ -1,0 +1,8 @@
+Activate venv:
+C:\xxx\xxx\xxx\AI_ML\venv\Scripts\activate
+
+Install ipykernel within venv:
+pip install ipykernel
+
+Register the venv as a Jupyter kernel:
+python -m ipykernel install --user --name=venv --display-name "Python (AI_ML venv)"
