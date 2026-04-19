@@ -1,0 +1,1172 @@
+Unnamed: 0,job_title,job_type,experience_level,location,salary_currency,salary
+0,Data scientist,Full Time,Senior,New York City,USD,0.6010101010101011
+2,Data scientist,Full Time,Senior,Boston,USD,0.4545454545454546
+3,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+4,Data scientist,Full Time,Senior,Boston,USD,0.4545454545454546
+5,Data scientist,Full Time,Senior,New York City,USD,0.6010101010101011
+6,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+7,Data scientist,Full Time,Senior,Research Triangle Park,USD,0.196969696969697
+8,Data scientist,Full Time,Senior,Sydney,USD,0.1919191919191919
+9,Data scientist,Full Time,Senior,San Francisco,USD,0.5555555555555556
+10,Data scientist,Full Time,Senior,Sofia,USD,0.1919191919191919
+12,Data scientist,Full Time,Entry,BangPa-in,USD,0.02525252525252525
+15,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+17,Data scientist,Full Time,Senior,NAMER,USD,0.1919191919191919
+18,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+20,Data scientist,Full Time,Senior,San Jose,USD,0.1919191919191919
+22,Data scientist,Full Time,Senior,Petaling Jaya,USD,0.12626262626262627
+23,Data scientist,Full Time,Senior,Englewood,USD,0.1919191919191919
+24,Data scientist,Full Time,Senior,Pune,USD,0.1919191919191919
+25,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+26,Data scientist,Full Time,Mid,Remote,USD,0.0505050505050505
+27,Data scientist,Full Time,Entry,Paris,USD,0.030303030303030304
+28,Data scientist,Internship,Entry,Paris,USD,0.030303030303030304
+30,Data scientist,Full Time,Mid,Gothenburg,USD,0.0505050505050505
+31,Data scientist,Internship,Entry,Mountain View,USD,0.1313131313131313
+32,Data scientist,Full Time,Executive,San Francisco,USD,0.5050505050505051
+34,Data scientist,Full Time,Senior,San Jose,USD,0.1919191919191919
+35,Data scientist,Full Time,Senior,Porto,USD,0.1313131313131313
+36,Data scientist,Internship,Entry,Mountain View,USD,0.1313131313131313
+37,Data scientist,Full Time,Senior,Ontario,USD,0.1919191919191919
+38,Data scientist,Full Time,Senior,Brooklyn,USD,0.3737373737373738
+40,Data scientist,Full Time,Mid,Sydney,USD,0.16161616161616163
+41,Data scientist,Full Time,Senior,Remote- US,USD,0.6060606060606061
+42,Data scientist,Full Time,Senior,Cambridge,USD,0.1919191919191919
+44,Data scientist,Full Time,Mid,La Libertad,USD,0.0505050505050505
+45,Data scientist,Full Time,Senior,San Francisco,USD,0.6616161616161617
+47,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+48,Data scientist,Full Time,Senior,Lithuania | UK,USD,0.1919191919191919
+50,Data scientist,Full Time,Senior,Chicago,USD,0.1919191919191919
+51,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+52,Data scientist,Full Time,Senior,Remote- US,USD,0.6060606060606061
+53,Data scientist,Full Time,Mid,United Kingdom - Remote,USD,0.0505050505050505
+55,Data scientist,Full Time,Senior,Santiago,USD,0.1919191919191919
+57,Data scientist,Full Time,Senior,Nairobi,USD,0.1919191919191919
+60,Data scientist,Full Time,Mid,Luxembourg,USD,0.0505050505050505
+61,Data scientist,Full Time,Senior,San Francisco OR Remote US Canada,USD,0.1919191919191919
+62,Data scientist,Full Time,Senior,Paris,USD,0.1919191919191919
+63,Data scientist,Full Time,Mid,Lyon,USD,0.0505050505050505
+64,Data scientist,Full Time,Senior,Montreal,USD,0.1313131313131313
+65,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+66,Data scientist,Full Time,Entry,Princeton,USD,0.22222222222222224
+67,Data scientist,Full Time,Mid,California,USD,0.0505050505050505
+68,Data scientist,Full Time,Senior,Athens,USD,0.1919191919191919
+69,Data scientist,Internship,Senior,London,USD,0.1313131313131313
+70,Data scientist,Full Time,Entry,Charenton-Le-Pont,USD,0.030303030303030304
+72,Data scientist,Full Time,Senior,San Francisco,USD,0.1919191919191919
+73,Data scientist,Full Time,Senior,Aberdeen,USD,0.1919191919191919
+75,Data scientist,Full Time,Mid,Brampton,USD,0.0505050505050505
+78,Data scientist,Full Time,Senior,Salt Lake City,USD,0.1919191919191919
+79,Data scientist,Full Time,Mid,Munich,USD,0.0505050505050505
+80,Data scientist,Full Time,Mid,Oslo,USD,0.0505050505050505
+81,Data scientist,Full Time,Senior,Basel,USD,0.1919191919191919
+82,Data scientist,Full Time,Mid,Düsseldorf,USD,0.0505050505050505
+83,Data scientist,Full Time,Entry,Paris,USD,0.030303030303030304
+84,Data scientist,Full Time,Senior,Madrid,EUR,0.030303030303030304
+85,Data scientist,Full Time,Mid,Austin,USD,0.0505050505050505
+86,Data scientist,Full Time,Mid,Dallas,USD,0.0505050505050505
+88,Data scientist,Full Time,Senior,Warsaw,USD,0.4545454545454546
+89,Data scientist,Full Time,Mid,Houston,USD,0.0505050505050505
+90,Data scientist,Full Time,Senior,Hyderabad,USD,0.1919191919191919
+92,Data scientist,Full Time,Senior,Sofia,USD,0.1919191919191919
+93,Data scientist,Full Time,Senior,Boston,USD,0.4040404040404041
+94,Data scientist,Full Time,Senior,Paris,USD,0.1919191919191919
+95,Data scientist,Full Time,Senior,Zurich,USD,0.1919191919191919
+96,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+97,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+98,Data scientist,Full Time,Senior,New York City,USD,0.25757575757575757
+99,Data scientist,Full Time,Entry,Palaiseau,USD,0.030303030303030304
+100,Data scientist,Full Time,Entry,Burnaby,USD,0.030303030303030304
+102,Data scientist,Full Time,Senior,Lisbon,USD,0.1919191919191919
+103,Data scientist,Full Time,Senior,Tel Aviv-Yafo,USD,0.1919191919191919
+104,Data scientist,Full Time,Mid,United Kingdom - Remote,USD,0.0505050505050505
+105,Data scientist,Full Time,Senior,United States,USD,0.6161616161616162
+106,Data scientist,Full Time,Mid,Toronto,USD,0.0505050505050505
+107,Data scientist,Full Time,Senior,Indianapolis,USD,0.1919191919191919
+109,Data scientist,Full Time,Mid,Athens,USD,0.10606060606060605
+111,Data scientist,Full Time,Mid,New York City,USD,0.0505050505050505
+112,Data scientist,Full Time,Senior,New York,USD,0.3282828282828283
+113,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+115,Data scientist,Full Time,Mid,Dayton,USD,0.0505050505050505
+116,Data scientist,Full Time,Senior,Seoul,USD,0.1919191919191919
+117,Data scientist,Full Time,Entry,Glasgow,USD,0.030303030303030304
+118,Data scientist,Full Time,Mid,Emeryville,USD,0.5303030303030304
+120,Data scientist,Full Time,Entry,Massy - France,USD,0.030303030303030304
+121,Data scientist,Full Time,Senior,San Francisco,USD,0.1919191919191919
+123,Data scientist,Full Time,Mid,Paris,EUR,0.10101010101010102
+125,Data scientist,Full Time,Senior,Belo Horizonte,USD,0.1919191919191919
+127,Data scientist,Full Time,Senior,Oakville,USD,0.1919191919191919
+130,Data scientist,Full Time,Senior,Midrand,USD,0.1919191919191919
+131,Data scientist,Full Time,Mid,Roppongi,USD,0.0505050505050505
+132,Data scientist,Full Time,Senior,Solna,USD,0.1919191919191919
+133,Data scientist,Full Time,Senior,Santa Clara,USD,0.1919191919191919
+134,Data scientist,Full Time,Mid,Emeryville,USD,0.4545454545454546
+137,Data scientist,Full Time,Senior,Boston,USD,0.1919191919191919
+139,Data scientist,Full Time,Entry,Calabasas,USD,0.4545454545454546
+141,Data scientist,Full Time,Senior,Bangkok,USD,0.1919191919191919
+142,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+143,Data scientist,Full Time,Mid,Ahmedabad,USD,0.0505050505050505
+144,Data scientist,Full Time,Senior,Lisbon,USD,0.1919191919191919
+145,Data scientist,Full Time,Entry,Roppongi,USD,0.1313131313131313
+146,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+147,Data scientist,Full Time,Senior,Brooklyn,USD,0.8383838383838385
+148,Data scientist,Full Time,Senior,Dallas,USD,0.1919191919191919
+149,Data scientist,Full Time,Senior,New York City,USD,0.4797979797979799
+150,Data scientist,Full Time,Entry,Lisboa,USD,0.030303030303030304
+151,Data scientist,Full Time,Senior,Markham,USD,0.1919191919191919
+152,Data scientist,Full Time,Senior,Athina,USD,0.1919191919191919
+153,Data scientist,Full Time,Mid,London,USD,0.0505050505050505
+154,Data scientist,Full Time,Mid,Berlin,USD,0.0505050505050505
+155,Data scientist,Full Time,Senior,Chicago,USD,0.1919191919191919
+156,Data scientist,Full Time,Entry,Norfolk,USD,0.030303030303030304
+157,Data scientist,Full Time,Senior,Boston,USD,0.1919191919191919
+158,Data scientist,Full Time,Senior,Remote (DC),USD,0.1919191919191919
+159,Data scientist,Full Time,Senior,Bengaluru,USD,0.1919191919191919
+160,Data scientist,Full Time,Senior,Tel Aviv-Yafo,USD,0.1919191919191919
+161,Data scientist,Full Time,Mid,Houston,USD,0.0505050505050505
+162,Data scientist,Full Time,Senior,Seattle,USD,0.1919191919191919
+163,Data scientist,Full Time,Senior,Norfolk,USD,0.1919191919191919
+164,Data scientist,Full Time,Senior,Belfast,USD,0.1919191919191919
+165,Data scientist,Full Time,Senior,Toronto,USD,0.1919191919191919
+166,Data scientist,Full Time,Mid,Toronto,USD,0.0505050505050505
+167,Data scientist,Full Time,Senior,Remote - United States,USD,0.1919191919191919
+168,Data scientist,Full Time,Entry,Toronto,USD,0.030303030303030304
+169,Data scientist,Full Time,Senior,Tampa,USD,0.1919191919191919
+170,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+171,Data scientist,Full Time,Mid,Düsseldorf,USD,0.0505050505050505
+172,Data scientist,Full Time,Senior,Düsseldorf,USD,0.1919191919191919
+174,Data scientist,Full Time,Entry,Amsterdam,USD,0.030303030303030304
+175,Data scientist,Full Time,Senior,Amsterdam,USD,0.1919191919191919
+177,Data scientist,Full Time,Mid,Munich,USD,0.0505050505050505
+178,Data scientist,Full Time,Mid,Lyon,USD,0.10606060606060605
+179,Data scientist,Full Time,Senior,Basel,USD,0.1919191919191919
+180,Data scientist,Full Time,Mid,Oslo,USD,0.0505050505050505
+181,Data scientist,Full Time,Senior,Longueuil,USD,0.1919191919191919
+182,Data scientist,Full Time,Senior,Glattbrugg,USD,0.1313131313131313
+183,Data scientist,Full Time,Senior,New York City,USD,0.20202020202020202
+184,Data scientist,Full Time,Senior,Atlanta,USD,0.4545454545454546
+185,Data scientist,Full Time,Senior,Toronto,USD,0.1919191919191919
+186,Data scientist,Full Time,Mid,Barcelona,USD,0.0505050505050505
+187,Data scientist,Full Time,Mid,London,USD,0.10606060606060605
+188,Data scientist,Full Time,Senior,Madrid,EUR,0.030303030303030304
+189,Data scientist,Full Time,Mid,Abu Dhabi,USD,0.10606060606060605
+190,Data scientist,Full Time,Mid,Berlin,USD,0.0505050505050505
+191,Data scientist,Full Time,Senior,Fort Bragg,USD,0.1919191919191919
+192,Data scientist,Full Time,Senior,Remote - US,USD,0.1919191919191919
+193,Data scientist,Full Time,Senior,San Francisco,USD,0.5
+194,Data scientist,Full Time,Mid,Singapore,USD,0.10606060606060605
+195,Data scientist,Full Time,Senior,Toronto,USD,0.1919191919191919
+197,Data scientist,Full Time,Senior,Berlin,USD,0.4545454545454546
+198,Data scientist,Full Time,Mid,London,USD,0.0505050505050505
+199,Data scientist,Full Time,Mid,Brampton,USD,0.0505050505050505
+200,Data scientist,Full Time,Senior,UK,USD,0.1919191919191919
+201,Data scientist,Full Time,Senior,Aarhus,USD,0.1919191919191919
+203,Data scientist,Full Time,Senior,Canada,USD,0.1919191919191919
+205,Data scientist,Full Time,Mid,Remote,USD,0.4292929292929293
+206,Data scientist,Full Time,Senior,Berlin,USD,0.4545454545454546
+207,Data scientist,Full Time,Senior,Redwood City,USD,0.1919191919191919
+208,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+209,Data scientist,Full Time,Mid,Paris,USD,0.0505050505050505
+210,Data scientist,Full Time,Entry,Burnaby,USD,0.030303030303030304
+212,Data scientist,Full Time,Senior,Remote - United States,USD,0.1313131313131313
+213,Data scientist,Full Time,Senior,Remote - US,USD,0.1919191919191919
+215,Data scientist,Full Time,Senior,India,USD,0.1919191919191919
+216,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+217,Data scientist,Full Time,Senior,Heredia,USD,0.1919191919191919
+218,Data scientist,Full Time,Senior,Jealott's Hill,USD,0.1919191919191919
+219,Data scientist,Full Time,Mid,Mountain View,USD,0.3030303030303031
+220,Data scientist,Full Time,Senior,Miami - will also consider remote in …,USD,0.1919191919191919
+221,Data scientist,Full Time,Senior,Porto,USD,0.1919191919191919
+222,Data scientist,Full Time,Senior,Tel Aviv,USD,0.1919191919191919
+223,Data scientist,Full Time,Mid,West Jakarta,USD,0.0505050505050505
+224,Data scientist,Internship,Entry,Paris,USD,0.030303030303030304
+225,Data scientist,Full Time,Entry,Montreal,USD,0.030303030303030304
+226,Data scientist,Full Time,Mid,Berlin,EUR,0.1414141414141414
+228,Data scientist,Internship,Mid,United States - Remote,USD,0.16161616161616163
+231,Data scientist,Full Time,Senior,Toronto,USD,0.1919191919191919
+233,Data scientist,Full Time,Senior,Remote,USD,0.5151515151515152
+234,Data scientist,Full Time,Entry,North Reading,USD,0.1313131313131313
+236,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+237,Data scientist,Full Time,Entry,Sunnyvale,USD,0.030303030303030304
+238,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+239,Data scientist,Full Time,Mid,Dallas,USD,0.0505050505050505
+240,Data scientist,Full Time,Senior,Boston,USD,0.1919191919191919
+241,Data scientist,Full Time,Mid,Suitland-Silver Hill,USD,0.10606060606060605
+242,Data scientist,Full Time,Entry,Paris,USD,0.030303030303030304
+243,Data scientist,Full Time,Senior,Chicago,USD,0.1919191919191919
+244,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+245,Data scientist,Full Time,Senior,Hamburg,USD,0.1919191919191919
+246,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+247,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+248,Data scientist,Full Time,Mid,Bang Kapi District,USD,0.0505050505050505
+249,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+250,Data scientist,Full Time,Senior,Remote job,USD,0.1919191919191919
+251,Data scientist,Full Time,Senior,Tel Aviv,USD,0.1919191919191919
+252,Data scientist,Full Time,Senior,Remote job,USD,0.1919191919191919
+253,Data scientist,Full Time,Senior,Amsterdam,USD,0.4545454545454546
+254,Data scientist,Full Time,Mid,København,USD,0.0505050505050505
+255,Data scientist,Full Time,Senior,Cincinnati,USD,0.1919191919191919
+256,Data scientist,Full Time,Senior,Dallas,USD,0.1919191919191919
+257,Data scientist,Full Time,Senior,Singapore,USD,0.1313131313131313
+258,Data scientist,Full Time,Senior,Stockholm,USD,0.1919191919191919
+259,Data scientist,Full Time,Senior,Longueuil,USD,0.1919191919191919
+260,Data scientist,Full Time,Senior,Renningen,USD,0.1313131313131313
+261,Data scientist,Full Time,Entry,Paris,USD,0.030303030303030304
+262,Data scientist,Full Time,Entry,Paris,USD,0.030303030303030304
+263,Data scientist,Full Time,Senior,New York City,USD,0.4545454545454546
+264,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+265,Data scientist,Full Time,Senior,Atlanta,USD,0.1919191919191919
+266,Data scientist,Full Time,Senior,Bangkok,USD,0.1919191919191919
+268,Data scientist,Full Time,Senior,Bangkok,USD,0.16666666666666666
+269,Data scientist,Full Time,Senior,USA (remote),USD,0.1919191919191919
+270,Data scientist,Full Time,Senior,New York,USD,0.5808080808080809
+271,Data scientist,Full Time,Senior,New York City - Boston,USD,0.1919191919191919
+272,Data scientist,Full Time,Mid,New York City,USD,0.0505050505050505
+273,Data scientist,Full Time,Mid,Bangkok,USD,0.10606060606060605
+274,Data scientist,Full Time,Mid,Brampton,USD,0.0505050505050505
+275,Data scientist,Full Time,Senior,Seattle,USD,0.1313131313131313
+276,Data scientist,Full Time,Mid,Hong Kong,USD,0.0505050505050505
+277,Data scientist,Full Time,Senior,San Francisco,USD,0.5
+279,Data scientist,Full Time,Mid,Emeryville,USD,0.4545454545454546
+281,Data scientist,Full Time,Entry,Berlin,USD,0.030303030303030304
+282,Data scientist,Full Time,Senior,San Mateo,USD,0.1919191919191919
+284,Data scientist,Full Time,Senior,Santa Clara,USD,0.1919191919191919
+285,Data scientist,Full Time,Mid,Berlin,USD,0.0505050505050505
+286,Data scientist,Full Time,Mid,Málaga,USD,0.0505050505050505
+287,Data scientist,Full Time,Senior,Bangkok,USD,0.16666666666666666
+289,Data scientist,Full Time,Senior,Madrid,USD,0.1919191919191919
+292,Data scientist,Full Time,Mid,France - Remote,USD,0.0505050505050505
+293,Data scientist,Full Time,Senior,Herndon,USD,0.46464646464646464
+295,Data scientist,Full Time,Senior,Madrid,EUR,0.030303030303030304
+296,Data scientist,Full Time,Mid,Porto,USD,0.0505050505050505
+297,Data scientist,Full Time,Senior,Toronto,USD,0.4545454545454546
+299,Data scientist,Full Time,Mid,Brussels,USD,0.0505050505050505
+300,Data scientist,Full Time,Mid,Spain - Remote,USD,0.0505050505050505
+301,Data scientist,Full Time,Senior,Helsinki,USD,0.1919191919191919
+302,Data scientist,Full Time,Mid,Fort Belvoir,USD,0.0505050505050505
+303,Data scientist,Internship,Senior,San Jose,USD,0.1313131313131313
+305,Data scientist,Full Time,Mid,London,USD,0.0505050505050505
+307,Data scientist,Full Time,Senior,San Francisco,USD,0.1919191919191919
+308,Data scientist,Full Time,Mid,Utrecht,USD,0.0505050505050505
+309,Data scientist,Full Time,Mid,Ireland - Remote,USD,0.0505050505050505
+310,Data scientist,Full Time,Entry,Sunnyvale,USD,0.030303030303030304
+311,Data scientist,Full Time,Mid,Dubai,USD,0.0505050505050505
+314,Data scientist,Internship,Senior,Asia,USD,0.1919191919191919
+315,Data scientist,Full Time,Senior,Ann Arbor,USD,0.1919191919191919
+317,Data scientist,Full Time,Senior,New York City; San Francisco,USD,0.38888888888888895
+318,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+319,Data scientist,Full Time,Senior,Washington DC - will also consider remote …,USD,0.1919191919191919
+321,Data scientist,Full Time,Senior,Canada,USD,0.1919191919191919
+322,Data scientist,Full Time,Senior,Dubai,USD,0.1919191919191919
+324,Data scientist,Full Time,Mid,Warsaw,USD,0.0505050505050505
+325,Data scientist,Full Time,Mid,Lüneburg,USD,0.0505050505050505
+326,Data scientist,Full Time,Entry,Saint-Denis,USD,0.030303030303030304
+327,Data scientist,Full Time,Mid,Cambridge,USD,0.0
+328,Data scientist,Full Time,Mid,England,USD,0.0505050505050505
+329,Data scientist,Full Time,Senior,Bengaluru,USD,0.1919191919191919
+331,Data scientist,Full Time,Senior,Baar,USD,0.1919191919191919
+332,Data scientist,Full Time,Senior,Indianapolis,USD,0.1919191919191919
+333,Data scientist,Full Time,Senior,Ottawa,USD,0.1919191919191919
+334,Data scientist,Full Time,Senior,Palo Alto,USD,0.1313131313131313
+337,Data scientist,Full Time,Senior,Flexible,USD,0.1919191919191919
+338,Data scientist,Full Time,Senior,Santiago de Querétaro,USD,0.1919191919191919
+339,Data scientist,Full Time,Mid,London,USD,0.0505050505050505
+340,Data scientist,Full Time,Entry,Remote,USD,0.030303030303030304
+341,Data scientist,Full Time,Senior,New York City,USD,0.25757575757575757
+342,Data scientist,Full Time,Senior,Kraków,USD,0.1919191919191919
+343,Data scientist,Full Time,Mid,United States - Remote,USD,0.0505050505050505
+345,Data scientist,Internship,Entry,Paris,USD,0.030303030303030304
+347,Data scientist,Full Time,Senior,Montreal,USD,0.1919191919191919
+348,Data scientist,Full Time,Mid,Roppongi,USD,0.16161616161616163
+349,Data scientist,Full Time,Senior,Valencia,USD,0.1919191919191919
+351,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+352,Data scientist,Full Time,Mid,San Diego,USD,0.0505050505050505
+353,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+354,Data scientist,Full Time,Senior,Remote,USD,0.1919191919191919
+356,Data scientist,Full Time,Mid,Arlington,USD,0.0505050505050505
+357,Data scientist,Full Time,Senior,San Francisco,USD,0.5
+358,Data scientist,Full Time,Senior,Brooklyn,USD,0.7777777777777778
+359,Data scientist,Full Time,Mid,Milan,USD,0.0505050505050505
+360,Data scientist,Full Time,Mid,Toronto,USD,0.0505050505050505
+361,Data scientist,Internship,Mid,Bengaluru,USD,0.16161616161616163
+362,Data scientist,Full Time,Senior,Enkhuizen,USD,0.1919191919191919
+363,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+364,Data scientist,Full Time,Senior,Barcelona,USD,0.1919191919191919
+365,Data scientist,Full Time,Senior,Brooklyn,USD,0.3737373737373738
+366,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+367,Data scientist,Full Time,Senior,Madrid,USD,0.1313131313131313
+368,Data scientist,Full Time,Entry,Vienna,USD,0.030303030303030304
+369,Data scientist,Full Time,Senior,Brooklyn,USD,0.5050505050505051
+370,Data scientist,Full Time,Mid,Spain - Remote,USD,0.0505050505050505
+371,Data scientist,Full Time,Mid,Dallas,USD,0.0505050505050505
+372,Data scientist,Full Time,Senior,Mountain View,USD,0.1919191919191919
+373,Data scientist,Full Time,Senior,Seattle,USD,0.1919191919191919
+374,Data scientist,Full Time,Mid,Bordeaux,USD,0.0505050505050505
+375,Data scientist,Full Time,Senior,Tel Aviv-Yafo,USD,0.1919191919191919
+376,Data scientist,Full Time,Mid,Roppongi,USD,0.16161616161616163
+377,Data scientist,Full Time,Senior,Warsaw,USD,0.1919191919191919
+379,Data scientist,Full Time,Senior,Irving,USD,0.1919191919191919
+381,Data scientist,Full Time,Senior,Warsaw,USD,0.1313131313131313
+382,Data scientist,Full Time,Mid,Chelmsford,USD,0.28787878787878785
+383,Data scientist,Full Time,Mid,Paris,USD,0.0505050505050505
+384,Data scientist,Full Time,Senior,Dallas,USD,0.1919191919191919
+385,Data scientist,Internship,Senior,Chicago,USD,0.1919191919191919
+386,Data scientist,Full Time,Senior,Mountain View,USD,0.1313131313131313
+387,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+388,Data scientist,Internship,Senior,United States,USD,0.1919191919191919
+389,Data scientist,Full Time,Senior,Palo Alto,USD,0.1919191919191919
+391,Data scientist,Full Time,Mid,Malmö,USD,0.0505050505050505
+392,Data scientist,Full Time,Mid,Bengaluru,USD,0.040404040404040414
+393,Data scientist,Full Time,Mid,London,USD,0.040404040404040414
+394,Data scientist,Full Time,Senior,Hyderabad,USD,0.1919191919191919
+395,Data scientist,Full Time,Senior,Bengaluru,USD,0.1919191919191919
+397,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+398,Data scientist,Full Time,Senior,San Francisco,USD,0.1919191919191919
+401,Data scientist,Full Time,Senior,Cape Town,USD,0.1919191919191919
+402,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+405,Data scientist,Full Time,Entry,Belgrade,USD,0.030303030303030304
+407,Data scientist,Full Time,Senior,Chantilly,USD,0.1919191919191919
+408,Data scientist,Full Time,Senior,Irving,USD,0.1919191919191919
+410,Data scientist,Full Time,Senior,Brooklyn,USD,0.8383838383838385
+411,Data scientist,Full Time,Mid,Málaga,USD,0.040404040404040414
+412,Data scientist,Full Time,Senior,Brooklyn,USD,0.7777777777777778
+413,Data scientist,Full Time,Mid,Bühl,USD,0.040404040404040414
+415,Data scientist,Full Time,Senior,Mountain View,USD,0.1919191919191919
+416,Data scientist,Full Time,Senior,Remote or San Francisco HQ,USD,0.8383838383838385
+417,Data scientist,Full Time,Senior,Oakville,USD,0.1919191919191919
+418,Data scientist,Full Time,Senior,Chennai,USD,0.1919191919191919
+419,Data scientist,Full Time,Mid,Houston,USD,0.040404040404040414
+420,Data scientist,Full Time,Senior,New York City,USD,0.1919191919191919
+421,Data scientist,Full Time,Senior,Remote (within United States),USD,0.1919191919191919
+422,Data scientist,Full Time,Senior,Los Gatos,USD,0.1313131313131313
+423,Data scientist,Full Time,Mid,Houston,USD,0.040404040404040414
+424,Data scientist,Full Time,Senior,Boston,USD,0.48989898989898994
+425,Data scientist,Full Time,Senior,Jealott's Hill,USD,0.1313131313131313
+426,Data scientist,Full Time,Mid,Greenville,USD,0.040404040404040414
+427,Data scientist,Full Time,Senior,San Jose,USD,0.1313131313131313
+428,Data scientist,Full Time,Senior,San Diego,USD,0.1919191919191919
+429,Data scientist,Full Time,Mid,Austin,USD,0.040404040404040414
+432,Data scientist,Full Time,Senior,Seoul,USD,0.1919191919191919
+433,Data scientist,Full Time,Senior,San Francisco,USD,0.1919191919191919
+436,Data scientist,Full Time,Mid,Lüneburg,USD,0.040404040404040414
+440,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+441,Data scientist,Full Time,Senior,Brooklyn,USD,0.7777777777777778
+442,Data scientist,Full Time,Senior,San Francisco,USD,0.5
+443,Data scientist,Full Time,Senior,Austin,USD,0.1919191919191919
+444,Data scientist,Full Time,Senior,Madrid,EUR,0.030303030303030304
+445,Data scientist,Full Time,Senior,Berlin,USD,0.1919191919191919
+446,Data scientist,Full Time,Entry,Saint-Denis,USD,0.030303030303030304
+448,Data scientist,Full Time,Senior,Philadelphia,USD,0.5
+449,Data scientist,Full Time,Senior,Morrisville,USD,0.7828282828282829
+450,Data scientist,Full Time,Senior,U.S. Remote,USD,0.1919191919191919
+452,Data scientist,Full Time,Senior,Sunnyvale,USD,0.1313131313131313
+453,Data scientist,Full Time,Senior,San Francisco,USD,0.1919191919191919
+454,Data scientist,Full Time,Entry,Arlington,USD,0.030303030303030304
+455,Data scientist,Full Time,Senior,Lexington,USD,0.1919191919191919
+456,Data scientist,Full Time,Senior,Sunnyvale,USD,0.1313131313131313
+457,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+459,Data scientist,Full Time,Senior,Remote (California,USD,0.5303030303030304
+460,Data scientist,Full Time,Mid,Düsseldorf,USD,0.040404040404040414
+463,Data scientist,Full Time,Senior,United States,USD,0.31818181818181823
+464,Data scientist,Full Time,Mid,Homestead,USD,0.040404040404040414
+465,Data scientist,Full Time,Entry,Bourdeaux,USD,0.030303030303030304
+467,Data scientist,Full Time,Senior,Boston,USD,0.5
+469,Data scientist,Full Time,Senior,London,USD,0.1919191919191919
+470,Data scientist,Full Time,Senior,Bangkok,USD,0.0808080808080808
+471,Data scientist,Internship,Entry,Santa Clara,USD,0.030303030303030304
+472,Data scientist,Full Time,Senior,Santa Clara,USD,0.1919191919191919
+473,Data scientist,Full Time,Mid,London,USD,0.040404040404040414
+475,Data scientist,Full Time,Senior,Taipei,USD,0.1919191919191919
+476,Data scientist,Full Time,Senior,Paris or Remote from France,USD,0.1919191919191919
+477,Data scientist,Full Time,Mid,Berlin,USD,0.040404040404040414
+478,Data scientist,Full Time,Senior,Palo Alto,USD,0.1313131313131313
+479,Data scientist,Full Time,Senior,San Francisco,USD,0.6363636363636365
+480,Data scientist,Full Time,Senior,Dallas,USD,0.1919191919191919
+481,Data scientist,Full Time,Senior,Helsinki,USD,0.1919191919191919
+482,Data scientist,Full Time,Mid,Munich,USD,0.040404040404040414
+483,Data scientist,Full Time,Senior,San Francisco,USD,0.5
+484,Data scientist,Full Time,Senior,Denver,USD,0.5252525252525253
+489,Data scientist,Full Time,Senior,San Francisco,USD,0.7171717171717172
+490,Data scientist,Full Time,Mid,Poznań,USD,0.040404040404040414
+491,Data scientist,Full Time,Senior,Bangkok,USD,0.0808080808080808
+493,Data scientist,Full Time,Mid,United Kingdom - Remote,USD,0.040404040404040414
+494,Data scientist,Full Time,Mid,Bangkok,USD,0.10606060606060605
+496,Data scientist,Full Time,Senior,Bengaluru,USD,0.1919191919191919
+497,Data scientist,Full Time,Mid,South Jakarta,USD,0.040404040404040414
+500,Data analyst,Full Time,Senior,Copenhagen,USD,0.16161616161616163
+501,Data analyst,Full Time,Mid,Cluj,USD,0.10606060606060605
+503,Data analyst,Full Time,Senior,Stuttgart,USD,0.16161616161616163
+504,Data analyst,Full Time,Mid,Papendrecht,USD,0.10606060606060605
+506,Data analyst,Full Time,Senior,Berlin,USD,0.16666666666666666
+507,Data analyst,Full Time,Entry,Sarasota,USD,0.09090909090909091
+509,Data analyst,Full Time,Senior,Jakarta,USD,0.16666666666666666
+510,Data analyst,Full Time,Senior,Chicago,USD,0.16666666666666666
+512,Data analyst,Full Time,Senior,Lexington,USD,0.16666666666666666
+513,Data analyst,Full Time,Senior,Remote job,USD,0.16666666666666666
+514,Data analyst,Full Time,Mid,Barcelona,USD,0.10606060606060605
+515,Data analyst,Full Time,Mid,Bogotá,USD,0.07575757575757577
+518,Data analyst,Full Time,Senior,United States,USD,0.23232323232323235
+519,Data analyst,Full Time,Mid,Bracknell,USD,0.10606060606060605
+521,Data analyst,Full Time,Senior,San Francisco,USD,0.5555555555555556
+522,Data analyst,Full Time,Entry,London,USD,0.0
+523,Data analyst,Full Time,Senior,Remote,USD,0.16666666666666666
+524,Data analyst,Full Time,Entry,Sandton,USD,0.0
+525,Data analyst,Full Time,Entry,Houston,USD,0.0
+526,Data analyst,Full Time,Senior,Dublin,USD,0.16161616161616163
+527,Data analyst,Full Time,Mid,Bengaluru,USD,0.10606060606060605
+529,Data analyst,Full Time,Senior,Washington,USD,0.25757575757575757
+531,Data analyst,Full Time,Entry,Boston,USD,0.0
+532,Data analyst,Full Time,Senior,Atlanta,USD,0.4040404040404041
+533,Data analyst,Full Time,Entry,Bogota,USD,0.0
+535,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+536,Data analyst,Full Time,Mid,Boulogne-Billancourt,USD,0.10606060606060605
+537,Data analyst,Full Time,Senior,Madrid,EUR,0.040404040404040414
+539,Data analyst,Full Time,Executive,Kampala,USD,0.0808080808080808
+540,Data analyst,Full Time,Mid,London,GBP,0.07575757575757577
+543,Data analyst,Full Time,Senior,Boston,USD,0.16666666666666666
+544,Data analyst,Full Time,Senior,Remote,USD,0.4696969696969697
+547,Data analyst,Full Time,Senior,Somerville,USD,0.16666666666666666
+549,Data analyst,Full Time,Senior,Kirkland,USD,0.16666666666666666
+550,Data analyst,Full Time,Senior,Boston - Remote,USD,0.16666666666666666
+551,Data analyst,Full Time,Senior,Munich,USD,0.16161616161616163
+553,Data analyst,Full Time,Executive,Remote,USD,0.5606060606060607
+555,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+557,Data analyst,Internship,Senior,Tampa,USD,0.16666666666666666
+561,Data analyst,Full Time,Senior,Washington,USD,0.25757575757575757
+562,Data analyst,Full Time,Mid,Riga,USD,0.10606060606060605
+564,Data analyst,Full Time,Entry,Mexico City,USD,0.0
+566,Data analyst,Full Time,Senior,East Windsor,USD,0.16666666666666666
+567,Data analyst,Full Time,Senior,Remote- US,USD,0.3535353535353536
+568,Data analyst,Full Time,Senior,Remote,USD,0.48989898989898994
+569,Data analyst,Full Time,Senior,Brooklyn,USD,0.3737373737373738
+570,Data analyst,Full Time,Senior,West Palm Beach,USD,0.16666666666666666
+572,Data analyst,Full Time,Mid,Monterrey,USD,0.10606060606060605
+574,Data analyst,Full Time,Senior,Remote- US,USD,0.984848484848485
+575,Data analyst,Full Time,Entry,Stuttgart,USD,0.0
+579,Data analyst,Full Time,Senior,Medellín,USD,0.16666666666666666
+580,Data analyst,Full Time,Senior,Berlin,USD,0.16666666666666666
+581,Data analyst,Full Time,Senior,Campinas,USD,0.16666666666666666
+584,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+585,Data analyst,Full Time,Mid,Charlotte,USD,0.10606060606060605
+586,Data analyst,Full Time,Senior,Campinas,USD,0.16666666666666666
+589,Data analyst,Full Time,Senior,Tel-Aviv,USD,0.16666666666666666
+590,Data analyst,Full Time,Mid,Cape Town,USD,0.10606060606060605
+591,Data analyst,Full Time,Senior,San Francisco,USD,0.3737373737373738
+592,Data analyst,Full Time,Senior,Brazil - Remote,USD,0.16666666666666666
+593,Data analyst,Full Time,Mid,Newbury,GBP,0.07575757575757577
+596,Data analyst,Full Time,Entry,Boulogne-Billancourt,USD,0.0
+598,Data analyst,Full Time,Senior,Brazil,USD,0.16666666666666666
+600,Data analyst,Full Time,Entry,Paris or Remote from France,USD,0.0
+603,Data analyst,Full Time,Senior,Remote job,USD,0.16666666666666666
+604,Data analyst,Full Time,Mid,Brussels,USD,0.10606060606060605
+606,Data analyst,Full Time,Mid,Stanford,USD,0.10606060606060605
+608,Data analyst,Full Time,Mid,Sector 62,USD,0.10606060606060605
+609,Data analyst,Full Time,Senior,Mount Laurel Township,USD,0.16666666666666666
+610,Data analyst,Full Time,Senior,Manila,USD,0.16666666666666666
+611,Data analyst,Full Time,Senior,Bangkok,USD,0.16666666666666666
+612,Data analyst,Full Time,Senior,United States,USD,0.16666666666666666
+613,Data analyst,Full Time,Senior,Stuttgart,USD,0.16666666666666666
+615,Data analyst,Full Time,Mid,Denver,USD,0.10606060606060605
+616,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+619,Data analyst,Full Time,Senior,Sydney,USD,0.16666666666666666
+620,Data analyst,Full Time,Entry,Barcelona,USD,0.0
+622,Data analyst,Full Time,Entry,Katowice,USD,0.0
+625,Data analyst,Full Time,Senior,Montreal,USD,0.16666666666666666
+627,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+628,Data analyst,Full Time,Senior,Remote job,USD,0.16666666666666666
+629,Data analyst,Full Time,Senior,East Windsor,USD,0.16666666666666666
+631,Data analyst,Full Time,Senior,São Paulo,USD,0.23232323232323235
+632,Data analyst,Full Time,Senior,Iași,USD,0.16666666666666666
+633,Data analyst,Full Time,Senior,Chantilly,USD,0.4494949494949495
+635,Data analyst,Full Time,Senior,Makati,USD,0.16666666666666666
+636,Data analyst,Full Time,Senior,Remote - United States,USD,0.16666666666666666
+637,Data analyst,Full Time,Entry,Stuttgart,USD,0.0
+638,Data analyst,Full Time,Senior,Remote - United States,USD,0.16666666666666666
+639,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+640,Data analyst,Full Time,Senior,Raleigh,USD,0.16666666666666666
+641,Data analyst,Full Time,Senior,Charenton-Le-Pont,USD,0.16666666666666666
+642,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+643,Data analyst,Full Time,Senior,Barcelona,USD,0.16666666666666666
+645,Data analyst,Full Time,Mid,Brampton,USD,0.10606060606060605
+646,Data analyst,Full Time,Executive,Chennai,USD,0.0808080808080808
+648,Data analyst,Full Time,Senior,Chennai,USD,0.16666666666666666
+649,Data analyst,Full Time,Senior,UK,USD,0.16666666666666666
+652,Data analyst,Full Time,Mid,Colorado Springs,USD,0.3535353535353536
+655,Data analyst,Full Time,Entry,Porto,USD,0.0
+660,Data analyst,Full Time,Senior,New York City,USD,0.3282828282828283
+662,Data analyst,Internship,Senior,Paris,USD,0.16666666666666666
+663,Data analyst,Full Time,Entry,Overland Park,USD,0.0
+665,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+667,Data analyst,Full Time,Senior,Washington,USD,0.25757575757575757
+668,Data analyst,Full Time,Mid,Seattle,USD,0.10606060606060605
+669,Data analyst,Full Time,Senior,Hamburg,USD,0.16666666666666666
+670,Data analyst,Full Time,Entry,Pyrmont,USD,0.0
+671,Data analyst,Full Time,Mid,Philadelphia,USD,0.10606060606060605
+676,Data analyst,Full Time,Senior,Helsinki,USD,0.16666666666666666
+677,Data analyst,Full Time,Senior,Richardson,USD,0.16666666666666666
+678,Data analyst,Full Time,Entry,Downers Grove,USD,0.0
+680,Data analyst,Full Time,Mid,Chicago,USD,0.10606060606060605
+683,Data analyst,Full Time,Senior,Pittsburgh,USD,0.16666666666666666
+688,Data analyst,Full Time,Senior,United States,USD,0.6161616161616162
+689,Data analyst,Full Time,Executive,Remote,USD,0.05555555555555555
+692,Data analyst,Full Time,Senior,Tel Aviv,USD,0.16666666666666666
+697,Data analyst,Full Time,Mid,Athens,USD,0.10606060606060605
+698,Data analyst,Full Time,Mid,Bengaluru,USD,0.10606060606060605
+699,Data analyst,Full Time,Mid,New York City,USD,0.0505050505050505
+702,Data analyst,Full Time,Senior,United States,USD,0.4797979797979799
+705,Data analyst,Full Time,Senior,Wilmington,USD,0.16666666666666666
+707,Data analyst,Full Time,Senior,Indianapolis,USD,0.12626262626262627
+708,Data analyst,Full Time,Mid,Arlington,USD,0.10606060606060605
+709,Data analyst,Full Time,Entry,High Wycombe,USD,0.0
+711,Data analyst,Full Time,Senior,Singapore,USD,0.16666666666666666
+712,Data analyst,Full Time,Mid,Paris,USD,0.10606060606060605
+713,Data analyst,Full Time,Mid,United Kingdom - Remote,USD,0.10606060606060605
+714,Data analyst,Full Time,Senior,Berlin,USD,0.3232323232323232
+715,Data analyst,Full Time,Entry,Lyon,USD,0.0
+717,Data analyst,Full Time,Entry,Heredia,USD,0.0
+720,Data analyst,Full Time,Entry,Downers Grove,USD,0.0
+721,Data analyst,Full Time,Mid,Monterrey,USD,0.10606060606060605
+722,Data analyst,Full Time,Senior,Remote,USD,0.20202020202020202
+724,Data analyst,Full Time,Senior,Remote,USD,0.5555555555555556
+726,Data analyst,Full Time,Mid,Roppongi,USD,0.10606060606060605
+728,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+729,Data analyst,Full Time,Entry,Milan,USD,0.0
+730,Data analyst,Full Time,Senior,Porto,USD,0.16666666666666666
+731,Data analyst,Full Time,Senior,United States,USD,0.16666666666666666
+732,Data analyst,Full Time,Senior,Campinas,USD,0.16666666666666666
+733,Data analyst,Full Time,Mid,Munich,USD,0.10606060606060605
+735,Data analyst,Full Time,Mid,Pune,USD,0.10606060606060605
+736,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+737,Data analyst,Full Time,Senior,North Macedonia,USD,0.16666666666666666
+740,Data analyst,Full Time,Entry,Carquefou,USD,0.0
+741,Data analyst,Full Time,Senior,Bangkok,USD,0.1919191919191919
+743,Data analyst,Full Time,Mid,Chiasso,USD,0.10606060606060605
+744,Data analyst,Full Time,Senior,Seattle,USD,0.16666666666666666
+747,Data analyst,Full Time,Senior,Seoul,USD,0.16666666666666666
+748,Data analyst,Full Time,Entry,Bucharest,USD,0.0
+749,Data analyst,Full Time,Mid,United Kingdom - Remote,USD,0.10606060606060605
+750,Data analyst,Full Time,Mid,Angeles,USD,0.10606060606060605
+753,Data analyst,Internship,Entry,Singapore,USD,0.0
+754,Data analyst,Full Time,Senior,Palta Cyprus,USD,0.16666666666666666
+755,Data analyst,Full Time,Senior,Remote - United States,USD,0.16666666666666666
+758,Data analyst,Full Time,Entry,Muntinlupa,USD,0.0
+760,Data analyst,Internship,Entry,Lausanne,USD,0.0
+762,Data analyst,Full Time,Senior,Remote,USD,0.16666666666666666
+763,Data analyst,Full Time,Senior,Remote - United States,USD,0.297979797979798
+765,Data analyst,Full Time,Mid,Europe,USD,0.10606060606060605
+766,Data analyst,Full Time,Entry,Cape Town,USD,0.0
+770,Data analyst,Full Time,Senior,Seattle,USD,0.1919191919191919
+771,Data analyst,Full Time,Entry,Buenos Aires,USD,0.0
+773,Data analyst,Full Time,Executive,Bengaluru,USD,0.05555555555555555
+774,Data analyst,Full Time,Senior,Iași,USD,0.16666666666666666
+775,Data analyst,Full Time,Mid,Toronto,USD,0.0505050505050505
+777,Data analyst,Full Time,Mid,Kingston,USD,0.10606060606060605
+778,Data analyst,Full Time,Senior,Barcelona,USD,0.16666666666666666
+779,Data analyst,Full Time,Mid,Lyon,USD,0.10606060606060605
+780,Data analyst,Full Time,Entry,Paris,USD,0.0
+781,Data analyst,Full Time,Entry,Austin,USD,0.0
+784,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+786,Data analyst,Full Time,Senior,Berlin,USD,0.16666666666666666
+787,Data analyst,Full Time,Senior,Nanterre,USD,0.16666666666666666
+788,Data analyst,Full Time,Senior,Remote - US; Remote - Canada,USD,0.3585858585858587
+792,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+793,Data analyst,Full Time,Mid,Ciudad de México,USD,0.10606060606060605
+795,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+797,Data analyst,Full Time,Senior,Philadelphia,USD,0.16666666666666666
+800,Data analyst,Full Time,Mid,Abu Dhabi,USD,0.10606060606060605
+803,Data analyst,Full Time,Senior,Atlanta,USD,0.16666666666666666
+804,Data analyst,Full Time,Senior,Hanoi,USD,0.16666666666666666
+805,Data analyst,Full Time,Senior,Amsterdam,USD,0.16666666666666666
+806,Data analyst,Full Time,Mid,Colorado Springs,USD,0.3535353535353536
+808,Data analyst,Full Time,Senior,Los Angeles,USD,0.16666666666666666
+809,Data analyst,Full Time,Mid,Singapore,USD,0.10606060606060605
+810,Data analyst,Full Time,Senior,Makati,USD,0.23232323232323235
+811,Data analyst,Full Time,Entry,Paris,USD,0.0
+813,Data analyst,Full Time,Senior,Remote,USD,0.23232323232323235
+814,Data analyst,Full Time,Senior,Arlington,USD,0.3030303030303031
+815,Data analyst,Full Time,Senior,New York City,USD,0.20202020202020202
+816,Data analyst,Full Time,Senior,Remote US,USD,0.16666666666666666
+817,Data analyst,Full Time,Senior,Montreal,USD,0.16666666666666666
+818,Data analyst,Full Time,Mid,Minato City,USD,0.10606060606060605
+819,Data analyst,Full Time,Mid,Brampton,USD,0.10606060606060605
+820,Data analyst,Full Time,Entry,Berchem,USD,0.0
+821,Data analyst,Full Time,Mid,Remote,USD,0.4292929292929293
+822,Data analyst,Full Time,Mid,Barcelona,USD,0.10606060606060605
+824,Data analyst,Full Time,Senior,London,GBP,0.13636363636363638
+825,Data analyst,Full Time,Senior,Minneapolis,USD,0.33333333333333337
+826,Data analyst,Full Time,Mid,Paris,USD,0.0505050505050505
+827,Data analyst,Full Time,Senior,Englewood Cliffs,USD,0.20202020202020202
+829,Data analyst,Full Time,Senior,San Francisco,USD,0.4040404040404041
+830,Data analyst,Full Time,Entry,Tunis,USD,0.0
+831,Data analyst,Full Time,Mid,New York City,USD,0.4747474747474748
+835,Data analyst,Full Time,Senior,Bengaluru,USD,0.16666666666666666
+838,Data analyst,Full Time,Mid,Reno,USD,0.10606060606060605
+840,Data analyst,Full Time,Mid,Paris,USD,0.10606060606060605
+841,Data analyst,Full Time,Mid,Bengaluru,USD,0.10606060606060605
+844,Data analyst,Full Time,Senior,Mexico City,USD,0.16666666666666666
+847,Data analyst,Full Time,Entry,Hamburg,USD,0.0
+849,Data analyst,Full Time,Senior,India - Bengaluru,USD,0.16666666666666666
+850,Data analyst,Full Time,Mid,Brazil - Remote,USD,0.10606060606060605
+852,Data analyst,Full Time,Senior,New York,USD,0.20202020202020202
+853,Data analyst,Full Time,Senior,Nottingham,USD,0.16666666666666666
+854,Data analyst,Full Time,Senior,Malaysia - Kuala Lumpur,USD,0.16666666666666666
+855,Data analyst,Full Time,Entry,Heredia,USD,0.0
+856,Data analyst,Full Time,Mid,United States - Remote,USD,0.10606060606060605
+857,Data analyst,Full Time,Senior,East Windsor,USD,0.16666666666666666
+862,Data analyst,Full Time,Mid,Reigate,USD,0.10606060606060605
+865,Data analyst,Full Time,Executive,Hyderabad,USD,0.0808080808080808
+866,Data analyst,Full Time,Senior,Paris,USD,0.16666666666666666
+867,Data analyst,Full Time,Entry,West Point,USD,0.0
+868,Data analyst,Internship,Senior,Casa Grande,USD,0.16666666666666666
+870,Data analyst,Full Time,Senior,Milan,USD,0.16666666666666666
+872,Data analyst,Full Time,Senior,Paris,USD,0.16666666666666666
+875,Data analyst,Full Time,Senior,Montreal,USD,0.16666666666666666
+879,Data analyst,Full Time,Senior,Stevenage,USD,0.16666666666666666
+881,Data analyst,Full Time,Senior,Miami - will also consider remote in …,USD,0.16666666666666666
+882,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+883,Data analyst,Full Time,Mid,Suitland-Silver Hill,USD,0.10606060606060605
+884,Data analyst,Full Time,Mid,Boulder,USD,0.6565656565656566
+886,Data analyst,Full Time,Senior,Atlanta,USD,0.16666666666666666
+887,Data analyst,Full Time,Mid,Newcastle upon Tyne,USD,0.10606060606060605
+888,Data analyst,Full Time,Mid,Boulder,USD,0.398989898989899
+889,Data analyst,Internship,Senior,Omaha,USD,0.16666666666666666
+891,Data analyst,Full Time,Senior,Hamburg,USD,0.1919191919191919
+893,Data analyst,Full Time,Entry,Lyon,USD,0.0
+895,Data analyst,Full Time,Entry,Mumbai,USD,0.0
+896,Data analyst,Full Time,Senior,Remote,USD,0.16666666666666666
+897,Data analyst,Full Time,Senior,Stamford,USD,0.3535353535353536
+898,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+900,Data analyst,Full Time,Mid,Cork,USD,0.10606060606060605
+901,Data analyst,Full Time,Entry,Singapore,USD,0.0
+902,Data analyst,Full Time,Senior,Sydney,USD,0.16666666666666666
+903,Data analyst,Full Time,Entry,Bukit Jalil,USD,0.0
+905,Data analyst,Full Time,Senior,São Paulo,USD,0.16666666666666666
+906,Data analyst,Full Time,Mid,Athens,USD,0.10606060606060605
+907,Data analyst,Full Time,Entry,Lille,USD,0.0
+908,Data analyst,Full Time,Senior,London,USD,0.1919191919191919
+912,Data analyst,Full Time,Mid,Colorado Springs,USD,0.3535353535353536
+914,Data analyst,Full Time,Mid,Monterrey,USD,0.10606060606060605
+915,Data analyst,Full Time,Senior,Stockholm,USD,0.16666666666666666
+918,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+919,Data analyst,Full Time,Senior,Bucharest,USD,0.16666666666666666
+920,Data analyst,Full Time,Entry,Milwaukee,USD,0.0
+922,Data analyst,Full Time,Senior,São Paulo,USD,0.16666666666666666
+923,Data analyst,Full Time,Senior,Nanterre,USD,0.16666666666666666
+924,Data analyst,Full Time,Senior,Barcelona,USD,0.16666666666666666
+926,Data analyst,Full Time,Senior,East Windsor,USD,0.16666666666666666
+927,Data analyst,Full Time,Senior,Heredia,USD,0.16666666666666666
+928,Data analyst,Full Time,Entry,Saint-Herblain,USD,0.0
+929,Data analyst,Full Time,Senior,Santa Clara,USD,0.5050505050505051
+930,Data analyst,Full Time,Mid,Arlington,USD,0.10606060606060605
+931,Data analyst,Full Time,Entry,Oslo,USD,0.0
+933,Data analyst,Full Time,Senior,Canada,USD,0.16666666666666666
+934,Data analyst,Full Time,Senior,United States,USD,0.16666666666666666
+936,Data analyst,Full Time,Entry,London,USD,0.0
+938,Data analyst,Full Time,Senior,Paris,USD,0.16666666666666666
+939,Data analyst,Full Time,Mid,Paris,USD,0.10606060606060605
+940,Data analyst,Full Time,Mid,Washington,USD,0.2727272727272727
+941,Data analyst,Full Time,Senior,Santa Clara,USD,0.5050505050505051
+942,Data analyst,Full Time,Mid,Warsaw,USD,0.10606060606060605
+946,Data analyst,Full Time,Entry,Paris,USD,0.0
+947,Data analyst,Full Time,Mid,Bengaluru,USD,0.10606060606060605
+948,Data analyst,Full Time,Senior,Liverpool,USD,0.16666666666666666
+951,Data analyst,Full Time,Mid,Singapore,USD,0.10606060606060605
+952,Data analyst,Full Time,Senior,Jakarta,USD,0.16666666666666666
+953,Data analyst,Full Time,Senior,São Paulo,USD,0.16666666666666666
+954,Data analyst,Full Time,Entry,London,USD,0.0
+955,Data analyst,Full Time,Entry,Remote job,USD,0.0
+956,Data analyst,Full Time,Senior,New York City,USD,0.4040404040404041
+957,Data analyst,Full Time,Entry,Modena,USD,0.0
+958,Data analyst,Full Time,Mid,Aventura,USD,0.10606060606060605
+959,Data analyst,Full Time,Mid,Fremont,USD,0.10606060606060605
+962,Data analyst,Full Time,Senior,Amsterdam,USD,0.16666666666666666
+963,Data analyst,Full Time,Senior,Bangkok,USD,0.16666666666666666
+967,Data analyst,Full Time,Senior,Atlanta,USD,0.1919191919191919
+968,Data analyst,Full Time,Entry,Barcelona,USD,0.0
+969,Data analyst,Full Time,Senior,Bangkok,USD,0.1919191919191919
+970,Data analyst,Full Time,Senior,Poland,USD,0.16666666666666666
+971,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+972,Data analyst,Full Time,Senior,Bangkok,USD,0.16666666666666666
+974,Data analyst,Full Time,Senior,USA (remote),USD,0.1919191919191919
+975,Data analyst,Full Time,Senior,Bengaluru,USD,0.16666666666666666
+977,Data analyst,Full Time,Mid,Bangkok,USD,0.10606060606060605
+978,Data analyst,Full Time,Mid,London,USD,0.10606060606060605
+979,Data analyst,Full Time,Senior,Bangkok,USD,0.16666666666666666
+984,Data analyst,Full Time,Entry,India - Bengaluru,USD,0.0
+988,Data analyst,Full Time,Senior,Bengaluru,USD,0.16666666666666666
+989,Data analyst,Full Time,Mid,Brampton,USD,0.10606060606060605
+990,Data analyst,Full Time,Senior,Stockholm,USD,0.16666666666666666
+992,Data analyst,Full Time,Mid,O'Fallon,USD,0.10606060606060605
+994,Data analyst,Full Time,Mid,New York City,USD,0.5555555555555556
+997,Data analyst,Full Time,Mid,Bengaluru,USD,0.10606060606060605
+999,Data analyst,Full Time,Senior,United States,USD,0.4040404040404041
+1000,Data analyst,Full Time,Mid,Richmond,USD,0.10606060606060605
+1001,Data analyst,Full Time,Senior,Casa Grande,USD,0.16666666666666666
+1002,Data analyst,Full Time,Mid,Southfield,USD,0.10606060606060605
+1003,Data analyst,Full Time,Senior,Bangkok,USD,0.16666666666666666
+1004,Data analyst,Full Time,Senior,London,USD,0.16666666666666666
+1006,Data analyst,Full Time,Senior,West Palm Beach,USD,0.16666666666666666
+1010,Data analyst,Full Time,Mid,İstanbul,USD,0.10606060606060605
+1011,Data analyst,Full Time,Mid,Saint-Sauveur,USD,0.10606060606060605
+1013,Data analyst,Full Time,Entry,Hamburg,USD,0.0
+1014,Data analyst,Full Time,Mid,Stuttgart,USD,0.10606060606060605
+1015,Data analyst,Full Time,Entry,Madrid,USD,0.0
+1016,Data analyst,Full Time,Senior,New York City,USD,0.16666666666666666
+1018,Data analyst,Full Time,Mid,Paris,USD,0.10606060606060605
+1019,Data analyst,Full Time,Mid,Sydney,USD,0.10606060606060605
+1020,Data analyst,Full Time,Senior,Bangkok,USD,0.16666666666666666
+1021,Data analyst,Full Time,Mid,Cape Town,USD,0.10606060606060605
+1024,Data analyst,Full Time,Senior,Ontario,USD,0.16666666666666666
+1027,Data analyst,Full Time,Senior,Washington DC - will also consider remote …,USD,0.16666666666666666
+1030,Data analyst,Full Time,Senior,Bengaluru,USD,0.16666666666666666
+1031,Data analyst,Full Time,Senior,Pune,USD,0.16666666666666666
+1032,Data analyst,Full Time,Entry,Kraków,USD,0.0
+1033,Data analyst,Full Time,Senior,Irving,USD,0.16666666666666666
+1034,Data analyst,Full Time,Senior,Malaysia - Kuala Lumpur,USD,0.16666666666666666
+1035,Data analyst,Full Time,Senior,Sydney,USD,0.16666666666666666
+1036,Data analyst,Full Time,Senior,Montreal,USD,0.16666666666666666
+1038,Data analyst,Full Time,Senior,United States,USD,0.16666666666666666
+1039,Data analyst,Full Time,Mid,Boston,USD,0.4747474747474748
+1040,Data analyst,Full Time,Senior,Remote - USA,USD,0.16666666666666666
+1044,Data analyst,Full Time,Senior,Remote,USD,0.16666666666666666
+1046,Data analyst,Internship,Entry,Wien,USD,0.0
+1047,Data analyst,Full Time,Senior,New York City,USD,0.3030303030303031
+1048,Data analyst,Full Time,Senior,Stamford,USD,0.3535353535353536
+1049,Data analyst,Full Time,Entry,Kraków,USD,0.0
+1054,Data analyst,Full Time,Senior,Washington DC - will also consider remote …,USD,0.16666666666666666
+1055,Data analyst,Full Time,Mid,Cairo,USD,0.10606060606060605
+1056,Data analyst,Full Time,Mid,Colorado Springs,USD,0.3535353535353536
+1057,Data analyst,Full Time,Mid,İstanbul,USD,0.10606060606060605
+1107,Data analyst,Full Time,Senior,Remote (US),USD,0.4292929292929293
+1114,Data analyst,Full Time,Senior,San Francisco,USD,0.5
+1118,Data analyst,Full Time,Senior,Enkhuizen,USD,0.1919191919191919
+1121,Data analyst,Full Time,Senior,Brooklyn,USD,0.3737373737373738
+1131,Data analyst,Full Time,Senior,Brooklyn,USD,0.5050505050505051
+1158,Data analyst,Full Time,Mid,Paris,USD,0.0505050505050505
+1174,Data analyst,Full Time,Entry,Mumbai,USD,0.0
+1177,Data analyst,Full Time,Mid,Mechelen,USD,0.10606060606060605
+1178,Data analyst,Full Time,Senior,San Jose,USD,0.0808080808080808
+1180,Data analyst,Full Time,Mid,Genève,USD,0.10606060606060605
+1181,Data analyst,Full Time,Senior,Paris,USD,0.0808080808080808
+1183,Data analyst,Full Time,Mid,Marousi,USD,0.10606060606060605
+1184,Data analyst,Full Time,Senior,Irving,USD,0.1919191919191919
+1187,Data analyst,Full Time,Senior,India - Bengaluru,USD,0.0808080808080808
+1188,Data analyst,Full Time,Senior,San Francisco,USD,0.4040404040404041
+1189,Data analyst,Full Time,Mid,Brampton,USD,0.10606060606060605
+1190,Data analyst,Full Time,Senior,US / Remote,USD,0.0808080808080808
+1191,Data analyst,Full Time,Senior,New York City,USD,0.5101010101010102
+1193,Data analyst,Full Time,Senior,Dubai,USD,0.0808080808080808
+1194,Data analyst,Full Time,Senior,Mountain View,USD,0.1919191919191919
+1195,Data analyst,Full Time,Mid,Bengaluru,USD,0.10606060606060605
+1197,Data analyst,Full Time,Entry,Walnut Creek,USD,0.0
+1198,Data analyst,Full Time,Senior,USA,USD,0.0808080808080808
+1199,Data analyst,Full Time,Mid,Berlin,USD,0.10606060606060605
+1200,Big data,Full Time,Senior,Remote,EUR,0.17676767676767677
+1201,Big data,Full Time,Mid,London,USD,0.10606060606060605
+1202,Big data,Full Time,Senior,London,USD,0.0
+1203,Big data,Full Time,Mid,London,USD,0.07575757575757577
+1204,Big data,Full Time,Senior,London,USD,0.0
+1205,Big data,Full Time,Senior,Somerville,USD,0.196969696969697
+1207,Big data,Full Time,Senior,Somerville,USD,0.196969696969697
+1208,Big data,Full Time,Senior,London,USD,0.16161616161616163
+1209,Big data,Full Time,Senior,London,USD,0.16161616161616163
+1210,Big data,Full Time,Senior,London,USD,0.16161616161616163
+1211,Big data,Full Time,Mid,London,USD,0.07575757575757577
+1212,Big data,Full Time,Senior,Boulogne-Billancourt,USD,0.16161616161616163
+1213,Big data,Full Time,Mid,London,USD,0.07575757575757577
+1214,Big data,Full Time,Senior,London,USD,0.16161616161616163
+1215,Big data,Full Time,Senior,Tel Aviv,USD,0.0
+1216,Big data,Full Time,Senior,Brussels,USD,0.16161616161616163
+1219,Big data,Full Time,Senior,Boston,USD,0.16666666666666666
+1220,Big data,Full Time,Senior,Boston - Remote,USD,0.16666666666666666
+1221,Big data,Full Time,Senior,Porto,USD,0.1313131313131313
+1222,Big data,Full Time,Mid,Poznań,USD,0.07575757575757577
+1223,Big data,Full Time,Senior,London,USD,0.23232323232323235
+1224,Big data,Full Time,Senior,Cambridge,USD,0.1919191919191919
+1225,Big data,Full Time,Senior,Cambridge,USD,0.16666666666666666
+1226,Big data,Full Time,Senior,London,USD,0.23232323232323235
+1227,Big data,Full Time,Senior,Remote,USD,0.4545454545454546
+1230,Big data,Full Time,Senior,Chicago,USD,0.4191919191919192
+1234,Big data,Full Time,Entry,Katowice,USD,0.0
+1238,Big data,Full Time,Senior,Kusterdingen,USD,0.23232323232323235
+1240,Big data,Full Time,Senior,Kyiv,USD,0.0
+1242,Big data,Full Time,Senior,Salt Lake City,USD,0.1919191919191919
+1243,Big data,Full Time,Senior,Basel,USD,0.1919191919191919
+1254,Big data,Full Time,Senior,Santa Clara,USD,0.7121212121212122
+1263,Big data,Full Time,Senior,São Paulo,USD,0.0
+1264,Big data,Full Time,Senior,United States,USD,0.16666666666666666
+1267,Big data,Full Time,Senior,San Francisco,USD,0.38383838383838387
+1275,Big data,Full Time,Senior,Basel,USD,0.1919191919191919
+1277,Big data,Full Time,Mid,Abu Dhabi,USD,0.10606060606060605
+1284,Big data,Full Time,Senior,Cape Town,USD,0.0
+1285,Big data,Full Time,Senior,Aarhus,USD,0.1919191919191919
+1290,Big data,Full Time,Senior,Remote,USD,0.1919191919191919
+1291,Big data,Full Time,Senior,Jealott's Hill,USD,0.1919191919191919
+1295,Big data,Full Time,Senior,Remote,USD,0.23232323232323235
+1296,Big data,Full Time,Senior,Beaverton,USD,0.23232323232323235
+1298,Big data,Full Time,Mid,Paris,USD,0.10606060606060605
+1305,Big data,Full Time,Executive,Hyderabad,USD,0.0808080808080808
+1311,Big data,Full Time,Senior,Dublin,USD,0.0
+1313,Big data,Full Time,Senior,Kusterdingen,USD,0.23232323232323235
+1319,Big data,Full Time,Entry,Poznań,USD,0.0
+1320,Big data,Full Time,Senior,Singapore,USD,0.1313131313131313
+1323,Big data,Full Time,Senior,London,USD,0.23232323232323235
+1327,Big data,Full Time,Senior,Hyderabad,USD,0.0
+1328,Big data,Full Time,Senior,Warszawa,USD,0.0
+1333,Big data,Full Time,Senior,Poland,USD,0.16666666666666666
+1334,Big data,Full Time,Senior,Bangkok,USD,0.16666666666666666
+1336,Big data,Full Time,Mid,Bangkok,USD,0.10606060606060605
+1340,Big data,Full Time,Senior,Bangkok,USD,0.16666666666666666
+1351,Big data,Full Time,Senior,Bengaluru,USD,0.0
+1353,Big data,Full Time,Senior,United States,USD,0.16666666666666666
+1355,Big data,Full Time,Senior,Bengaluru,USD,0.0
+1357,Big data,Internship,Entry,Wien,USD,0.0
+1363,Big data,Full Time,Senior,Mexico City,USD,0.0
+1365,Big data,Full Time,Senior,Baar,USD,0.1919191919191919
+1368,Big data,Full Time,Senior,Hyderabad,USD,0.0
+1373,Big data,Full Time,Senior,Remote,USD,0.3535353535353536
+1380,Big data,Full Time,Mid,Bordeaux,USD,0.0505050505050505
+1392,Big data,Full Time,Entry,Mumbai,USD,0.0
+1397,Big data,Full Time,Senior,Petach Tikva,USD,0.0
+1398,Big data,Full Time,Senior,Bengaluru,USD,0.0
+1400,Big data,Full Time,Senior,Remote (Anywhere US),USD,0.0
+1410,Big data,Full Time,Senior,New York City,USD,0.5
+1413,Big data,Full Time,Senior,Athens,USD,0.23232323232323235
+1414,Big data,Full Time,Senior,Kusterdingen,USD,0.23232323232323235
+1416,Big data,Full Time,Senior,New York City; San Francisco,USD,0.7474747474747475
+1421,Big data,Full Time,Senior,Bangkok,USD,0.0808080808080808
+1424,Big data,Full Time,Senior,Delhi,USD,0.23232323232323235
+1426,Big data,Full Time,Senior,Delhi,USD,0.23232323232323235
+1430,Big data,Full Time,Senior,Bangkok,USD,0.0808080808080808
+1431,Big data,Full Time,Mid,Bangkok,USD,0.10606060606060605
+1437,Big data,Full Time,Senior,Westminster,USD,0.3535353535353536
+1449,Big data,Full Time,Mid,Toulouse,USD,0.0
+1451,Big data,Full Time,Senior,Vero Beach,USD,0.07575757575757577
+1453,Big data,Full Time,Senior,India,USD,0.0
+1462,Big data,Full Time,Senior,Makati,USD,0.0
+1463,Big data,Full Time,Senior,Cartagena,USD,0.23232323232323235
+1464,Big data,Full Time,Mid,Granada,USD,0.040404040404040414
+1465,Big data,Full Time,Senior,Sydney,USD,0.0
+1466,Big data,Full Time,Senior,Remote,USD,0.23232323232323235
+1468,Big data,Full Time,Mid,Las Vegas,USD,0.24242424242424246
+1469,Big data,Full Time,Senior,Singapore,USD,0.0808080808080808
+1470,Big data,Full Time,Mid,Bangkok,USD,0.040404040404040414
+1471,Big data,Full Time,Senior,Bengaluru,USD,0.23232323232323235
+1472,Big data,Full Time,Mid,Enkhuizen,USD,0.040404040404040414
+1473,Big data,Full Time,Senior,Bengaluru,USD,0.23232323232323235
+1474,Big data,Full Time,Mid,Bengaluru,USD,0.0
+1475,Big data,Full Time,Mid,Bengaluru,USD,0.0
+1477,Big data,Full Time,Mid,Bengaluru,USD,0.0
+1478,Big data,Full Time,Mid,Monterrey,USD,0.040404040404040414
+1480,Big data,Full Time,Senior,Bangkok,USD,0.0808080808080808
+1481,Big data,Full Time,Senior,Bangkok,USD,0.0808080808080808
+1483,Big data,Full Time,Mid,Barcelona,USD,0.0
+1484,Big data,Full Time,Mid,Bangkok,USD,0.10606060606060605
+1488,Machine learning,Full Time,Mid,US east coast,USD,0.4747474747474748
+1489,Machine learning,Full Time,Executive,Montréal,USD,0.25757575757575757
+1490,Machine learning,Full Time,Mid,Remote,USD,0.10606060606060605
+1491,Machine learning,Full Time,Mid,Remote,USD,0.10606060606060605
+1492,Machine learning,Full Time,Senior,Stuttgart,USD,0.16161616161616163
+1493,Machine learning,Full Time,Mid,Remote,USD,0.10606060606060605
+1494,Machine learning,Full Time,Senior,Boston,USD,0.4545454545454546
+1495,Machine learning,Full Time,Senior,London,USD,0.1919191919191919
+1496,Machine learning,Full Time,Mid,Remote,USD,0.10606060606060605
+1498,Machine learning,Full Time,Senior,Boston,USD,0.4545454545454546
+1499,Machine learning,Full Time,Senior,Remote Poland,USD,0.1313131313131313
+1501,Machine learning,Full Time,Senior,Research Triangle Park,USD,0.196969696969697
+1502,Machine learning,Full Time,Mid,Remote,USD,0.10606060606060605
+1503,Machine learning,Full Time,Senior,Remote Poland,USD,0.1313131313131313
+1504,Machine learning,Full Time,Mid,Remote,USD,0.10606060606060605
+1505,Machine learning,Full Time,Mid,Malvern,USD,0.1313131313131313
+1506,Machine learning,Full Time,Mid,Athens,USD,0.10606060606060605
+1508,Machine learning,Full Time,Senior,Remote Poland,USD,0.1313131313131313
+1509,Machine learning,Full Time,Senior,Portland,USD,0.5656565656565657
+1510,Machine learning,Full Time,Mid,Warsaw,USD,0.10606060606060605
+1511,Machine learning,Full Time,Senior,Santa Clara,USD,0.196969696969697
+1513,Machine learning,Full Time,Mid,Warsaw,USD,0.10606060606060605
+1514,Machine learning,Full Time,Mid,Warsaw,USD,0.10606060606060605
+1515,Machine learning,Full Time,Senior,Remote,USD,0.16161616161616163
+1516,Machine learning,Full Time,Mid,Toronto,USD,0.06565656565656566
+1518,Machine learning,Full Time,Senior,Lisbon,USD,0.07575757575757577
+1520,Machine learning,Full Time,Senior,Mexico,USD,0.7828282828282829
+1523,Machine learning,Full Time,Senior,Portland,USD,0.5656565656565657
+1525,Machine learning,Full Time,Senior,Paris,USD,0.07575757575757577
+1530,Machine learning,Full Time,Senior,San Francisco,USD,0.8080808080808082
+1531,Machine learning,Full Time,Senior,Seattle,USD,0.16666666666666666
+1534,Machine learning,Full Time,Senior,United States (Remote),USD,0.07575757575757577
+1535,Machine learning,Full Time,Entry,New York City,USD,0.0
+1536,Machine learning,Full Time,Senior,San Francisco,USD,0.8636363636363636
+1537,Machine learning,Full Time,Senior,Washington,USD,0.25757575757575757
+1539,Machine learning,Internship,Entry,Mountain View,USD,0.1313131313131313
+1540,Machine learning,Full Time,Senior,New York City,USD,0.6060606060606061
+1541,Machine learning,Full Time,Senior,Seattle,USD,0.07575757575757577
+1543,Machine learning,Full Time,Senior,Seattle,USD,0.07575757575757577
+1544,Machine learning,Internship,Entry,Mountain View,USD,0.1313131313131313
+1545,Machine learning,Full Time,Senior,San Francisco,USD,0.6818181818181819
+1549,Machine learning,Full Time,Mid,Sydney,USD,0.16161616161616163
+1550,Machine learning,Internship,Senior,New York City,USD,0.07575757575757577
+1551,Machine learning,Full Time,Mid,Athens,USD,0.06565656565656566
+1552,Machine learning,Full Time,Senior,Cambridge,USD,0.1919191919191919
+1555,Machine learning,Full Time,Senior,Remote- US,USD,0.6060606060606061
+1556,Machine learning,Full Time,Senior,Remote Canada,USD,0.16666666666666666
+1558,Machine learning,Full Time,Senior,United States,USD,0.07575757575757577
+1562,Machine learning,Full Time,Mid,Cape Town,USD,0.10606060606060605
+1564,Machine learning,Full Time,Senior,Cambridge,USD,0.16666666666666666
+1570,Machine learning,Full Time,Senior,New York City,USD,0.7323232323232324
+1580,Machine learning,Full Time,Senior,Montreal,USD,0.1313131313131313
+1581,Machine learning,Full Time,Entry,Barcelona,USD,0.0
+1583,Machine learning,Full Time,Mid,Athens,USD,0.16666666666666666
+1584,Machine learning,Full Time,Mid,London,USD,0.06565656565656566
+1585,Machine learning,Full Time,Senior,Brooklyn,USD,0.8383838383838385
+1586,Machine learning,Full Time,Senior,Remote Canada,USD,0.16666666666666666
+1588,Machine learning,Full Time,Senior,Kyiv,USD,0.0
+1589,Machine learning,Full Time,Senior,Remote - United States,USD,0.7424242424242424
+1590,Machine learning,Full Time,Senior,Bengaluru,USD,0.16666666666666666
+1592,Machine learning,Full Time,Senior,Lisbon,USD,0.07575757575757577
+1596,Machine learning,Full Time,Senior,Australia,USD,0.07575757575757577
+1597,Machine learning,Full Time,Senior,San Francisco,USD,0.6919191919191919
+1598,Machine learning,Full Time,Senior,Sydney,USD,0.07575757575757577
+1599,Machine learning,Full Time,Mid,Brampton,USD,0.06565656565656566
+1604,Machine learning,Full Time,Mid,Dallas,USD,0.0505050505050505
+1607,Machine learning,Full Time,Mid,Santiago de Querétaro,USD,0.07575757575757577
+1609,Machine learning,Full Time,Senior,Washington,USD,0.25757575757575757
+1610,Machine learning,Full Time,Senior,Warsaw,USD,0.4545454545454546
+1614,Machine learning,Full Time,Senior,San Francisco,USD,0.4545454545454546
+1618,Machine learning,Full Time,Mid,La Libertad,USD,0.07575757575757577
+1619,Machine learning,Full Time,Mid,Santiago,USD,0.07575757575757577
+1624,Machine learning,Full Time,Entry,Seoul,USD,0.0
+1630,Machine learning,Full Time,Senior,New York City,USD,0.8585858585858587
+1633,Machine learning,Full Time,Senior,New York,USD,0.3282828282828283
+1634,Machine learning,Full Time,Mid,Dayton,USD,0.0505050505050505
+1635,Machine learning,Full Time,Senior,Seoul,USD,0.1919191919191919
+1636,Machine learning,Full Time,Entry,Seattle,USD,0.0
+1638,Machine learning,Internship,Mid,Paris,USD,0.16666666666666666
+1639,Machine learning,Full Time,Mid,Emeryville,USD,0.5303030303030304
+1640,Machine learning,Full Time,Entry,Massy - France,USD,0.030303030303030304
+1641,Machine learning,Full Time,Senior,San Francisco,USD,0.1919191919191919
+1642,Machine learning,Internship,Mid,Brooklyn,USD,0.16666666666666666
+1645,Machine learning,Full Time,Senior,Seoul,USD,0.07575757575757577
+1646,Machine learning,Internship,Mid,Paris,USD,0.16666666666666666
+1647,Machine learning,Full Time,Senior,Oakville,USD,0.1919191919191919
+1648,Machine learning,Full Time,Senior,Seoul,USD,0.07575757575757577
+1656,Machine learning,Full Time,Senior,Munich,USD,0.07575757575757577
+1657,Machine learning,Full Time,Senior,Lisbon,USD,0.07575757575757577
+1658,Machine learning,Full Time,Senior,Santa Clara,USD,0.1919191919191919
+1659,Machine learning,Full Time,Senior,Remote US,USD,0.07575757575757577
+1663,Machine learning,Full Time,Senior,United States,USD,0.16666666666666666
+1666,Machine learning,Internship,Mid,United States - Remote,USD,0.16666666666666666
+1667,Machine learning,Full Time,Entry,Calabasas,USD,0.4545454545454546
+1669,Machine learning,Full Time,Entry,Carquefou,USD,0.0
+1672,Machine learning,Full Time,Mid,United States - Remote,USD,0.3535353535353536
+1673,Machine learning,Full Time,Senior,Melbourne,USD,0.07575757575757577
+1674,Machine learning,Full Time,Mid,New York City,USD,0.6060606060606061
+1676,Machine learning,Internship,Mid,Brooklyn,USD,0.16666666666666666
+1677,Machine learning,Full Time,Senior,Seattle,USD,0.07575757575757577
+1678,Machine learning,Full Time,Mid,United States - Remote,USD,0.3535353535353536
+1679,Machine learning,Full Time,Mid,Ann Arbor,USD,0.3030303030303031
+1683,Machine learning,Full Time,Entry,Roppongi,USD,0.1313131313131313
+1688,Machine learning,Full Time,Senior,Palo Alto,USD,0.07575757575757577
+1695,Machine learning,Full Time,Mid,United States - Remote,USD,0.06565656565656566
+1698,Machine learning,Full Time,Mid,Nairobi,USD,0.06565656565656566
+1701,Machine learning,Full Time,Mid,France - Remote,USD,0.06565656565656566
+1704,Machine learning,Full Time,Entry,Toronto,USD,0.030303030303030304
+1705,Machine learning,Full Time,Senior,Remote - US; Remote - Canada,USD,0.696969696969697
+1706,Machine learning,Full Time,Mid,Ahmedabad,USD,0.06565656565656566
+1708,Machine learning,Full Time,Mid,Barcelona,USD,0.0505050505050505
+1710,Machine learning,Full Time,Senior,New York City,USD,0.07575757575757577
+1713,Machine learning,Full Time,Senior,San Francisco,USD,0.5656565656565657
+1714,Machine learning,Full Time,Mid,Roppongi,USD,0.06565656565656566
+1716,Machine learning,Full Time,Senior,Pune,USD,0.07575757575757577
+1717,Machine learning,Full Time,Mid,Roppongi,USD,0.06565656565656566
+1723,Machine learning,Full Time,Senior,Berlin,USD,0.4545454545454546
+1725,Machine learning,Full Time,Senior,Remote,USD,0.23232323232323235
+1726,Machine learning,Full Time,Senior,Remote - United States,USD,0.07575757575757577
+1727,Machine learning,Full Time,Senior,Arlington,USD,0.3030303030303031
+1730,Machine learning,Full Time,Senior,Aarhus,USD,0.1919191919191919
+1734,Machine learning,Full Time,Senior,Arlington,USD,0.3787878787878788
+1740,Machine learning,Full Time,Senior,Berlin,USD,0.4545454545454546
+1741,Machine learning,Full Time,Mid,Brampton,USD,0.06565656565656566
+1746,Machine learning,Full Time,Senior,London,USD,0.07575757575757577
+1747,Machine learning,Full Time,Senior,Vancouver,USD,0.5151515151515152
+1749,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+1750,Machine learning,Full Time,Senior,Palo Alto,USD,0.07575757575757577
+1753,Machine learning,Full Time,Entry,San Francisco,USD,0.5555555555555556
+1756,Machine learning,Full Time,Mid,Paris,USD,0.10606060606060605
+1757,Machine learning,Full Time,Senior,US Remote,USD,0.7727272727272728
+1763,Machine learning,Full Time,Senior,Beaverton,USD,0.16666666666666666
+1767,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+1769,Machine learning,Full Time,Senior,Toronto,USD,0.1919191919191919
+1773,Machine learning,Internship,Senior,Sunnyvale,USD,0.16666666666666666
+1775,Machine learning,Full Time,Entry,Warszawa,USD,0.0
+1776,Machine learning,Internship,Mid,Brooklyn,USD,0.16666666666666666
+1779,Machine learning,Full Time,Entry,Antwerp,USD,0.0
+1786,Machine learning,Full Time,Mid,Dallas,USD,0.0505050505050505
+1788,Machine learning,Full Time,Senior,San Francisco,USD,0.07575757575757577
+1789,Machine learning,Full Time,Mid,Remote job,USD,0.07575757575757577
+1795,Machine learning,Full Time,Senior,Bengaluru,USD,0.23232323232323235
+1796,Machine learning,Full Time,Senior,London,USD,0.1919191919191919
+1797,Machine learning,Full Time,Mid,Barcelona,USD,0.06565656565656566
+1799,Machine learning,Full Time,Senior,Remote,USD,0.23232323232323235
+1800,Machine learning,Full Time,Senior,Paris | Remote,EUR,0.20202020202020202
+1801,Machine learning,Full Time,Senior,Amsterdam,USD,0.4545454545454546
+1803,Machine learning,Full Time,Senior,Amsterdam,USD,0.07575757575757577
+1804,Machine learning,Full Time,Senior,Remote - Uruguay,USD,0.07575757575757577
+1805,Machine learning,Full Time,Senior,Vietnam - Remote,USD,0.23232323232323235
+1806,Machine learning,Full Time,Mid,Budapest,USD,0.07575757575757577
+1808,Machine learning,Full Time,Entry,Poznań,USD,0.0
+1809,Machine learning,Full Time,Senior,Singapore,USD,0.1313131313131313
+1811,Machine learning,Full Time,Entry,Oslo,USD,0.0
+1815,Machine learning,Full Time,Senior,London,USD,0.07575757575757577
+1821,Machine learning,Full Time,Senior,Bangkok,USD,0.1919191919191919
+1824,Machine learning,Full Time,Senior,United States,USD,0.07575757575757577
+1825,Machine learning,Full Time,Senior,Bangkok,USD,0.16666666666666666
+1827,Machine learning,Full Time,Senior,New York,USD,0.5808080808080809
+1828,Machine learning,Full Time,Senior,tel aviv,USD,0.07575757575757577
+1831,Machine learning,Full Time,Senior,United States,USD,0.5808080808080809
+1833,Machine learning,Full Time,Mid,Brampton,USD,0.06565656565656566
+1840,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+1845,Machine learning,Full Time,Senior,Palo Alto,USD,0.07575757575757577
+1846,Machine learning,Full Time,Executive,New York City - Boston,USD,0.4040404040404041
+1848,Machine learning,Full Time,Senior,Bangkok,USD,0.16666666666666666
+1849,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+1852,Machine learning,Full Time,Mid,Markham,USD,0.06565656565656566
+1856,Machine learning,Full Time,Senior,Toronto,USD,0.4545454545454546
+1857,Machine learning,Full Time,Senior,India,USD,0.07575757575757577
+1859,Machine learning,Full Time,Senior,United States,USD,0.07575757575757577
+1860,Machine learning,Full Time,Mid,Spain - Remote,USD,0.0505050505050505
+1861,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+1864,Machine learning,Full Time,Mid,London,GBP,0.0505050505050505
+1867,Machine learning,Full Time,Senior,San Francisco,USD,0.07575757575757577
+1868,Machine learning,Full Time,Senior,Bengaluru,USD,0.07575757575757577
+1870,Machine learning,Full Time,Senior,Tampere,USD,0.07575757575757577
+1871,Machine learning,Full Time,Entry,Sofia,USD,0.0
+1872,Machine learning,Full Time,Senior,US Remote,USD,0.6717171717171717
+1873,Machine learning,Full Time,Senior,United States,USD,0.07575757575757577
+1877,Machine learning,Full Time,Senior,London,USD,0.07575757575757577
+1881,Machine learning,Full Time,Senior,Brooklyn,USD,0.8383838383838385
+1883,Machine learning,Full Time,Senior,US Remote,USD,0.4545454545454546
+1884,Machine learning,Full Time,Senior,United States,USD,0.16666666666666666
+1885,Machine learning,Full Time,Senior,Remote - USA,USD,0.16666666666666666
+1886,Machine learning,Full Time,Senior,United States,USD,0.07575757575757577
+1887,Machine learning,Full Time,Senior,United States,USD,0.07575757575757577
+1889,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+1890,Machine learning,Full Time,Executive,United States,USD,0.06565656565656566
+1896,Machine learning,Full Time,Senior,Canada,USD,0.07575757575757577
+1900,Machine learning,Full Time,Mid,Cambridge,USD,0.0
+1905,Machine learning,Full Time,Senior,Indianapolis,USD,0.1919191919191919
+1911,Machine learning,Full Time,Mid,Bengaluru,USD,0.16666666666666666
+1914,Machine learning,Full Time,Senior,Toronto,USD,0.07575757575757577
+1920,Machine learning,Full Time,Senior,Work from Home,USD,0.07575757575757577
+1923,Machine learning,Full Time,Senior,New York City,USD,0.25757575757575757
+1924,Machine learning,Full Time,Senior,Munich,USD,0.07575757575757577
+1927,Machine learning,Full Time,Mid,New York City,USD,0.06565656565656566
+1928,Machine learning,Full Time,Senior,New York City; San Francisco,USD,0.5606060606060607
+1929,Machine learning,Full Time,Entry,Seattle,USD,0.0
+1932,Machine learning,Full Time,Senior,Los Angeles,USD,0.36868686868686873
+1934,Machine learning,Full Time,Mid,Lisbon,USD,0.16666666666666666
+1938,Machine learning,Full Time,Mid,Roppongi,USD,0.16161616161616163
+1939,Machine learning,Full Time,Senior,Valencia,USD,0.1919191919191919
+1941,Machine learning,Full Time,Senior,Remote,USD,0.3535353535353536
+1946,Machine learning,Full Time,Senior,Remote Canada,USD,0.07575757575757577
+1949,Machine learning,Full Time,Mid,South Jakarta,USD,0.06565656565656566
+1955,Machine learning,Full Time,Senior,Seattle,USD,0.1919191919191919
+1958,Machine learning,Full Time,Senior,Canada,USD,0.07575757575757577
+1960,Machine learning,Full Time,Senior,London,USD,0.16666666666666666
+1961,Machine learning,Full Time,Mid,Roppongi,USD,0.16161616161616163
+1972,Machine learning,Full Time,Senior,Mountain View,USD,0.1313131313131313
+1975,Machine learning,Full Time,Senior,Palo Alto,USD,0.1919191919191919
+1981,Machine learning,Full Time,Senior,Bengaluru,USD,0.1919191919191919
+1985,Machine learning,Full Time,Senior,Dublin,USD,0.07575757575757577
+1986,Machine learning,Full Time,Senior,Berlin,USD,0.1919191919191919
+1987,Machine learning,Full Time,Senior,Atlanta,USD,0.23232323232323235
+1988,Machine learning,Full Time,Mid,Mandaluyong,USD,0.06565656565656566
+1990,Machine learning,Full Time,Senior,Atlanta,USD,0.23232323232323235
+1991,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+1993,Machine learning,Full Time,Mid,Brampton,USD,0.06565656565656566
+1996,Machine learning,Full Time,Senior,London,USD,0.07575757575757577
+1998,Machine learning,Full Time,Senior,San Francisco,USD,0.5656565656565657
+1999,Machine learning,Full Time,Executive,Singapore,USD,0.06565656565656566
+2001,Machine learning,Full Time,Senior,Toronto,USD,1.0
+2003,Machine learning,Full Time,Senior,Bengaluru,USD,0.07575757575757577
+2004,Machine learning,Full Time,Executive,San Francisco,USD,0.7323232323232324
+2006,Machine learning,Full Time,Mid,Greenville,USD,0.040404040404040414
+2007,Machine learning,Full Time,Senior,San Jose,USD,0.1313131313131313
+2010,Machine learning,Full Time,Senior,Bengaluru,USD,0.07575757575757577
+2011,Machine learning,Full Time,Senior,San Francisco,USD,0.07575757575757577
+2016,Machine learning,Full Time,Senior,Seoul,USD,0.1919191919191919
+2017,Machine learning,Full Time,Entry,Seoul,USD,0.0
+2028,Machine learning,Full Time,Senior,San Jose,USD,0.07575757575757577
+2031,Machine learning,Full Time,Senior,Brooklyn,USD,0.7777777777777778
+2032,Machine learning,Full Time,Senior,Bengaluru,USD,0.07575757575757577
+2033,Machine learning,Full Time,Senior,San Jose,USD,0.07575757575757577
+2034,Machine learning,Full Time,Mid,Berkeley,USD,0.06565656565656566
+2045,Machine learning,Full Time,Senior,Seoul,USD,0.07575757575757577
+2047,Machine learning,Full Time,Senior,San Francisco,USD,0.5656565656565657
+2049,Machine learning,Full Time,Senior,Santa Clara,USD,0.07575757575757577
+2050,Machine learning,Full Time,Senior,Munich,USD,0.07575757575757577
+2051,Machine learning,Full Time,Entry,Antwerp,USD,0.0
+2053,Machine learning,Full Time,Mid,United States,USD,0.06565656565656566
+2054,Machine learning,Full Time,Senior,San Francisco,USD,0.7171717171717172
+2055,Machine learning,Full Time,Senior,Sunnyvale,USD,0.1313131313131313
+2056,Machine learning,Full Time,Senior,Lexington,USD,0.1919191919191919
+2057,Machine learning,Full Time,Senior,Sunnyvale,USD,0.1313131313131313
+2060,Machine learning,Full Time,Senior,London,USD,0.07575757575757577
+2062,Machine learning,Full Time,Senior,New York City,USD,0.07575757575757577
+2063,Machine learning,Full Time,Senior,Bangkok,USD,0.0808080808080808
+2064,Machine learning,Full Time,Senior,Portugal,USD,0.07575757575757577
+2065,Machine learning,Internship,Entry,Santa Clara,USD,0.030303030303030304
+2066,Machine learning,Full Time,Mid,London,GBP,0.17676767676767677
+2069,Machine learning,Full Time,Senior,Boston,USD,0.4292929292929293
+2072,Machine learning,Full Time,Senior,Pune,USD,0.07575757575757577
+2074,Machine learning,Full Time,Senior,San Francisco,USD,0.5656565656565657
+2075,Machine learning,Full Time,Senior,Delhi,USD,0.23232323232323235
+2079,Machine learning,Full Time,Mid,Warsaw,USD,0.06565656565656566
+2081,Machine learning,Full Time,Senior,Bangkok,USD,0.0808080808080808
+2083,Machine learning,Full Time,Mid,Kraków,USD,0.06565656565656566
+2090,Machine learning,Full Time,Senior,Bengaluru,USD,0.1919191919191919
+2094,Machine learning,Full Time,Senior,Wrocław,USD,0.07575757575757577
+2098,Machine learning,Full Time,Senior,Wrocław,USD,0.07575757575757577
+2099,Machine learning,Full Time,Senior,New York City,USD,0.4494949494949495
+2100,Machine learning,Full Time,Senior,San Francisco,USD,0.5909090909090909
+2101,Machine learning,Full Time,Senior,Basel,USD,0.07575757575757577
+2105,Machine learning,Full Time,Senior,Palo Alto,USD,0.07575757575757577
+2106,Machine learning,Full Time,Senior,Abu Dhabi,USD,0.1919191919191919
+2107,Machine learning,Full Time,Senior,India,USD,0.1919191919191919
+2109,Machine learning,Internship,Senior,United States,USD,0.07575757575757577
+2111,Machine learning,Full Time,Senior,České Budějovice,USD,0.1919191919191919
+2114,Machine learning,Full Time,Senior,San Francisco,USD,0.1919191919191919
+2118,Machine learning,Full Time,Mid,Toulouse,USD,0.0
+2119,Machine learning,Full Time,Senior,Ballerup,USD,0.23232323232323235
+2122,Machine learning,Full Time,Senior,Vero Beach,USD,0.07575757575757577
+2124,Machine learning,Full Time,Mid,Ho Chi Minh City,USD,0.040404040404040414
+2130,Machine learning,Full Time,Entry,Paris,USD,0.0
+2134,Machine learning,Internship,Entry,Palo Alto,USD,0.0
+2139,Machine learning,Full Time,Senior,Poland,USD,0.07575757575757577
+2144,Machine learning,Full Time,Senior,UK/EU or compatible timezone (Remote),USD,0.07575757575757577
+2147,Machine learning,Full Time,Senior,San Francisco,USD,0.07575757575757577
+2149,Machine learning,Full Time,Mid,Brampton,USD,0.06565656565656566
+2161,Machine learning,Full Time,Senior,Remote,USD,0.1919191919191919
+2170,Machine learning,Full Time,Entry,Stuttgart,USD,0.0
+2172,Machine learning,Full Time,Senior,Toronto,USD,0.07575757575757577
+2178,Machine learning,Full Time,Senior,United States,USD,0.07575757575757577
+2180,Machine learning,Full Time,Senior,Remote,USD,0.07575757575757577
+2181,Machine learning,Full Time,Mid,Ann Arbor,USD,0.3030303030303031
+2188,ML Ops,Full Time,Mid,US east coast,USD,0.4747474747474748
+2189,ML Ops,Full Time,Entry,North Sydney,USD,0.02525252525252525
+2190,ML Ops,Full Time,Senior,Berlin,USD,0.16161616161616163
+2191,ML Ops,Full Time,Mid,Malvern,USD,0.1313131313131313
+2201,ML Ops,Full Time,Mid,London,USD,0.06565656565656566
+2202,ML Ops,Full Time,Mid,Santiago de Querétaro,USD,0.07575757575757577
+2205,ML Ops,Full Time,Mid,La Libertad,USD,0.07575757575757577
+2206,ML Ops,Full Time,Mid,Santiago,USD,0.07575757575757577
+2208,ML Ops,Full Time,Senior,San Francisco,USD,0.1919191919191919
+2225,ML Ops,Full Time,Entry,San Diego,USD,0.1414141414141414
+2232,ML Ops,Full Time,Senior,Toronto,USD,0.07575757575757577
+2237,ML Ops,Full Time,Senior,New York City; San Francisco,USD,0.5606060606060607
+2239,ML Ops,Full Time,Senior,New York City / Remote,USD,0.12626262626262627
+2240,ML Ops,Full Time,Senior,Remote,USD,0.3535353535353536
+2243,ML Ops,Full Time,Senior,Toronto,USD,1.0
+2249,ML Ops,Full Time,Senior,Boston,USD,0.4292929292929293
+2250,ML Ops,Full Time,Senior,Delhi,USD,0.23232323232323235
+2255,ML Ops,Full Time,Senior,San Francisco,USD,0.1919191919191919
+2259,ML Ops,Internship,Senior,New York City,USD,0.5303030303030304
