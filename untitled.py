@@ -1,1 +1,0 @@
-python -m ipykernel install --user --name=ai_ml_env --display-name "Python (AI_ML)"
